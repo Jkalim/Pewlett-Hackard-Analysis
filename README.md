@@ -11,7 +11,7 @@ and determine how many people may need to be promoted and how many need to be hi
 -Sofware: PostgresSQL
 
 ## Resuslts
- -The analysis shows a totalof 90,398 current employees will retire from the company from each department as follow:
+ 1) The analysis shows a totalof 90,398 current employees will retire from the company from each department as follow:
   - Senior Engineer: 29,414
   - Senior Staff: 28,254
   - Engineer: 14,222
@@ -20,13 +20,13 @@ and determine how many people may need to be promoted and how many need to be hi
   - Assistant Engineer: 1,761
   - Manager: 2
  
- -Due to the upcoming retirees, a group of 1,549 current employees will start a mentorship program
+ 2) Due to the upcoming retirees, a group of 1,549 current employees will start a mentorship program
 to help facilitate the transition of the new staff to be hired to replace the retirees. 
 
- -The engineering department will be mostly affected as a large number senior engineers
+ 3) The engineering department will be mostly affected as a large number senior engineers
 and engieers will be retiring.
 
- -The company will need a new to hire about 14,222 stafff members as their senior staff will be 
+ 4) The company will need a new to hire about 14,222 stafff members as their senior staff will be 
 gone as well. 
   
 ## Summary
